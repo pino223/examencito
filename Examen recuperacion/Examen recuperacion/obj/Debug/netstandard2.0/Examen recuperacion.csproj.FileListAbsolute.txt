@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\bin\Debug\netstandard2.0\Examen recuperacion.deps.json
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\bin\Debug\netstandard2.0\Examen recuperacion.dll
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\bin\Debug\netstandard2.0\ref\Examen recuperacion.dll
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\bin\Debug\netstandard2.0\Examen recuperacion.pdb
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Vista\LatidosDetectados.xaml.g.cs
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.sourcelink.json
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.dll
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\refint\Examen recuperacion.dll
+C:\Users\Dell\source\repos\Examen recuperacion\Examen recuperacion\Examen recuperacion\obj\Debug\netstandard2.0\Examen recuperacion.pdb
